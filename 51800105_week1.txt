@@ -58,4 +58,4 @@ sinh ra trước đó rồi chuyển qua cho Reduce tiếp tục xử lý.
 - Phân chia dữ liệu cần xử lý thành các thành phần nhỏ.
 - Xử lý các vấn đề của thành phần nhỏ đó theo phương thức song song rồi phân
 tán độc lập.
-- Tổng hợp các kết quả vừa thu đượ
+- Tổng hợp các kết quả vừa thu được
