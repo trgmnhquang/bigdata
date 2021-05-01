@@ -31,7 +31,7 @@ sortByKey(), groupByKey().
 - Chuyển đổi hẹp: không yêu cầu xáo trộn dữ liệ vượt qua các phân vùng
 (partition). Ví dụ: map(), filter().
 
-2. MapReduce
+2. MapReduce.
   MapReduce là mô hình được thiết kế độc quyền bởi Google, nó có khả năng lập
 trình xử lý các tập dữ liệu lớn song song và phân tán thuật toán trên 1 cụm máy tính.
 MapReduce trở thành một trong những thành ngữ tổng quát hóa trong thời gian gần
